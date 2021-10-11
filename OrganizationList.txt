@@ -1,0 +1,14 @@
+tetrapak-tpps
+tetrapak-datascience
+tetrapak-smartfactory
+tetrapak-gim-cvt
+tetrapak-gim-ofsp
+tetrapak-gim-ssp
+tetrapak-localapp
+tetrapak-mobileapps
+tetrapak-portals
+tetrapak-applicationinfr
+tetrapak-cm-ppm
+tetrapak-core
+TetraLaval
+BRZOTTINOR
